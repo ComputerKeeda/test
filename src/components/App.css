@@ -67,4 +67,10 @@
   width: 80%;
   display: flex;
   justify-content: flex-end;
+  gap: 1rem;
+}
+
+.tokenaddress-ss{
+  font-size: 1rem;
+  
 }
